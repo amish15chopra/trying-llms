@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "ac4a9920d54c987623205b19083b47bc67fef72254239af502bed4e52284e1a9"
+            "sha256": "8d22be73d0f586addc6fbfbf8420f3735aeb3d17939d96945bf3c272a56e034f"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -179,6 +179,14 @@
             ],
             "markers": "python_version >= '3.7'",
             "version": "==4.1.3"
+        },
+        "beautifulsoup4": {
+            "hashes": [
+                "sha256:74e3d1928edc070d21748185c46e3fb33490f22f52a3addee9aee0f4f7781051",
+                "sha256:b80878c9f40111313e55da8ba20bdba06d8fa3969fc68304167741bbf9e082ed"
+            ],
+            "markers": "python_full_version >= '3.6.0'",
+            "version": "==4.12.3"
         },
         "build": {
             "hashes": [
@@ -1969,6 +1977,14 @@
             "markers": "python_version >= '3.7'",
             "version": "==1.3.1"
         },
+        "soupsieve": {
+            "hashes": [
+                "sha256:5663d5a7b3bfaeee0bc4372e7fc48f9cff4940b3eec54a6451cc5299f1097690",
+                "sha256:eaa337ff55a1579b6549dc679565eac1e3d000563bcb1c8ab0d0fefbc0c2cdc7"
+            ],
+            "markers": "python_version >= '3.8'",
+            "version": "==2.5"
+        },
         "sqlalchemy": {
             "hashes": [
                 "sha256:0094c5dc698a5f78d3d1539853e8ecec02516b62b8223c970c86d44e7a80f6c7",
@@ -2530,6 +2546,13 @@
                 "sha256:ffefa1374cd508d633646d51a8e9277763a9b78ae71324183693959cf94635a7"
             ],
             "version": "==12.0"
+        },
+        "wikipedia": {
+            "hashes": [
+                "sha256:db0fad1829fdd441b1852306e9856398204dc0786d2996dd2e0c8bb8e26133b2"
+            ],
+            "index": "pypi",
+            "version": "==1.4.0"
         },
         "wrapt": {
             "hashes": [

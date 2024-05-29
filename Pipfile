@@ -9,6 +9,7 @@ langchain-chroma = "*"
 langchain = "*"
 sentence-transformers = "*"
 langchain-core = "*"
+wikipedia = "*"
 
 [dev-packages]
 
